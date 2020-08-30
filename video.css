@@ -1,0 +1,13 @@
+html {
+	 height: 100%;
+}
+ body {
+	 margin: 0;
+	 background-color: #767c77;
+}
+
+video{
+	width:90%;
+	margin-left:4.2rem;
+	margin-top: 0.3rem;
+}
